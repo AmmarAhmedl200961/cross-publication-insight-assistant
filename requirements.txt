@@ -1,0 +1,4 @@
+langgraph
+beautifulsoup4
+requests
+nltk
