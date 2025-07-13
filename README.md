@@ -146,9 +146,7 @@ python -m pytest tests/ --cov=src --cov-report=html
 
 ## 🤝 Agent Communication Flow
 
-```mermaid
-
-```
+![Agent Communication Flow](diagrams/diag.png)
 
 The system follows a sequential pipeline where agents process data in a coordinated manner:
 
